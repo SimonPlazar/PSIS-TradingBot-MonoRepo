@@ -7,3 +7,6 @@
 [submodule "SentimentAnalyser"]
 	path = SentimentAnalyser
 	url = https://github.com/Lea-roj/Cryptorio
+[submodule "PricePredictor"]
+	path = PricePredictor
+	url = https://github.com/Potipecan/Cryptorio
