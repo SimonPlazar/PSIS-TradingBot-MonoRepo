@@ -4,3 +4,6 @@
 [submodule "WebCrawler"]
 	path = WebCrawler
 	url = https://github.com/Hexte/Crawler
+[submodule "SentimentAnalyser"]
+	path = SentimentAnalyser
+	url = https://github.com/Lea-roj/Cryptorio
