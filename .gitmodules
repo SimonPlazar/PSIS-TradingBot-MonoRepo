@@ -1,3 +1,6 @@
 [submodule "TradingSim"]
 	path = TradingSim
 	url = https://github.com/SimonPlazar/PSiIS-TradingBot
+[submodule "WebCrawler"]
+	path = WebCrawler
+	url = https://github.com/Hexte/Crawler
